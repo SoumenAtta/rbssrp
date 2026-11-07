@@ -1,0 +1,122 @@
+{
+  "instance_id": "RBSSRP_050_R02",
+  "open_bases": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "routes": [
+    {
+      "base": 0,
+      "caregiver": 0,
+      "tasks": [
+        26,
+        44,
+        19,
+        9,
+        33,
+        17
+      ]
+    },
+    {
+      "base": 1,
+      "caregiver": 1,
+      "tasks": [
+        25,
+        16,
+        15,
+        35,
+        42,
+        5
+      ]
+    },
+    {
+      "base": 2,
+      "caregiver": 2,
+      "tasks": [
+        29,
+        7,
+        21,
+        22
+      ]
+    },
+    {
+      "base": 3,
+      "caregiver": 3,
+      "tasks": [
+        2,
+        3,
+        48,
+        28,
+        39,
+        31
+      ]
+    },
+    {
+      "base": 4,
+      "caregiver": 4,
+      "tasks": [
+        46,
+        11,
+        6,
+        40,
+        37,
+        36,
+        45
+      ]
+    },
+    {
+      "base": 0,
+      "caregiver": 5,
+      "tasks": [
+        23,
+        20,
+        49,
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "base": 1,
+      "caregiver": 6,
+      "tasks": [
+        34,
+        18
+      ]
+    },
+    {
+      "base": 2,
+      "caregiver": 7,
+      "tasks": [
+        12,
+        30,
+        13,
+        32,
+        10
+      ]
+    },
+    {
+      "base": 3,
+      "caregiver": 8,
+      "tasks": [
+        14
+      ]
+    },
+    {
+      "base": 4,
+      "caregiver": 9,
+      "tasks": [
+        47,
+        27,
+        24,
+        41,
+        38,
+        43,
+        8
+      ]
+    }
+  ]
+}

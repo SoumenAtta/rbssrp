@@ -1,0 +1,67 @@
+{
+  "instance_id": "RBSSRP_025_M04",
+  "open_bases": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "routes": [
+    {
+      "base": 0,
+      "caregiver": 0,
+      "tasks": [
+        14,
+        12,
+        6,
+        0,
+        13,
+        11,
+        10,
+        16
+      ]
+    },
+    {
+      "base": 1,
+      "caregiver": 1,
+      "tasks": [
+        15,
+        9,
+        8
+      ]
+    },
+    {
+      "base": 2,
+      "caregiver": 2,
+      "tasks": [
+        22,
+        19,
+        4,
+        23,
+        17,
+        2
+      ]
+    },
+    {
+      "base": 3,
+      "caregiver": 3,
+      "tasks": [
+        21,
+        24,
+        18
+      ]
+    },
+    {
+      "base": 4,
+      "caregiver": 4,
+      "tasks": [
+        5,
+        20,
+        3,
+        7,
+        1
+      ]
+    }
+  ]
+}
